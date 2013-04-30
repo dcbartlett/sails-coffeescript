@@ -1,0 +1,23 @@
+{
+  "name": "sails-coffeescript",
+  "version": "0.0.0",
+  "description": "Coffeescript Module for SailsJS",
+  "main": "index.js",
+  "dependencies": {
+    "express-coffee": "~0.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "coffee",
+    "coffee-script",
+    "coffeescript",
+    "sailsjs",
+    "sails"
+  ],
+  "author": "Dennis Bartlett",
+  "license": "MIT"
+}
